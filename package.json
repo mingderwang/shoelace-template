@@ -1,0 +1,14 @@
+{
+  "name": "shoelace-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mingderwang/shoelace-template.git",
+  "author": "Ming-der Wang <mingderwang@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^13.0.2"
+  },
+  "scripts": {
+    "start": "serve ."
+  }
+}
